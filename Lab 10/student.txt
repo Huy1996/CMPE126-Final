@@ -1,0 +1,14 @@
+Semeter: Fall
+Year: 2020
+________________________________________________________________________
+First           Last      ID      HW    Quiz    Mid    Final    Average
+------------------------------------------------------------------------
+Alex            Smith     2345    50    60      70     80       70
+Benjamin        Davis     5678    50    64      35     65       54
+Liam            Johnson   3456    60    50      65     35       49
+Nguyen          Duong     1234    90    95      90     95       93
+Noah            Miller    4567    80    68      46     20       43
+Noman           Noname    4562    90    32      85     25       50
+Lam             Nguyen    3245    25    35      99     30       12
+Alex            Dang      1246    35    48      45     34       84
+Nathan          Drake     2146    48    47      16     72        34
